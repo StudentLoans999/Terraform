@@ -1,9 +1,4 @@
 # Terraform
 
-Link to the Bootcamp: https://www.youtube.com/watch?v=eiox8xFsCpE&list=PLBfufR7vyJJ4q5YCPl4o2XAzGRZUjuD-A&index=3
-
-Created and used a custom provider in order to provision a resource into the Terratowns application.
-                                            In app.terraform.io, first created a Project and a Workspace.
-                                            terraform init
-                                            terraform apply --auto-approve
-                                            CLI-driven workflow. 
+So far I've only used Terraform for a bootcamp [Terraform Bootcamp - Terratowns](https://github.com/StudentLoans999/terraform-beginner-bootcamp-2023) but I'm studying and almost prepared to take the HashiCorp Certified: Terraform Associate (003) exam.
+(Link to the Bootcamp: https://www.youtube.com/watch?v=eiox8xFsCpE&list=PLBfufR7vyJJ4q5YCPl4o2XAzGRZUjuD-A&index=3)
